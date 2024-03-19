@@ -2,7 +2,6 @@
   "name": "luxury-fishing-product",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sinhope.github.io/LuxuryFishingProduct/",
   "dependencies": {
     "@heroicons/react": "^2.1.1",
     "@testing-library/jest-dom": "^5.17.0",
